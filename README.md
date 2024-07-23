@@ -1,5 +1,4 @@
-<a href="https://wakatime.com/@018c1be4-f54c-4a1b-9251-889508522a9a"><img src="https://wakatime.com/badge/user/018c1be4-f54c-4a1b-9251-889508522a9a.svg" alt="Total time coded since Nov 29 2023" /></a>
-<h1 align="center">Hi 👋, I'm Loi Nguyen (Win Nguyen)</h1>
+<a href="https://wakatime.com/@b92ce9d0-08a5-4710-a92b-ce6f440296f6"><img src="https://wakatime.com/badge/user/b92ce9d0-08a5-4710-a92b-ce6f440296f6.svg" alt="Total time coded since Jul 23 2024" /></a><h1 align="center">Hi 👋, I'm Loi Nguyen (Win Nguyen)</h1>
 <h3 align="center">A passionate Full Stack Developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
