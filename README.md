@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning **Java Backend**
 <!-- - 💬 Ask me about **MEARN** -->
 
-- 📫 How to reach me (Email)
+- 📫 How to reach me <a href="winnguyen1905.work@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="" height="30" width="40" /></a>
+
 
 - ⚡ Fun fact **I am Funny**
 
