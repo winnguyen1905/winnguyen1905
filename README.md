@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/winnguyen1905/technology-store/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuKCZCJDKd6vur4Y7Oers3j34ExMOt2bkWQ&s" alt="" height="30" width="40" /></a>
 
 
-- 🌱 I’m currently learning **Java Backend**
+- 🌱 I’m currently learning **Every Thing**
 <!-- - 💬 Ask me about **MEARN** -->
 
 - 📫 How to reach me <img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="" height="30" width="40" /> winnguyen1905.work@gmail.com
