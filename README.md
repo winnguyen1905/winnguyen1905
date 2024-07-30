@@ -3,9 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on <a href="https://github.com/winnguyen1905/technology-store/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuKCZCJDKd6vur4Y7Oers3j34ExMOt2bkWQ&s" alt="" height="30" width="40" /></a>
-
-
 - 🌱 I’m currently learning **Every Thing**
 <!-- - 💬 Ask me about **MEARN** -->
 
